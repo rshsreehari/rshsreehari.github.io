@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Hexagon filled with your accent color -->
+  <polygon points="25,5 75,5 100,50 75,95 25,95 0,50" fill="#10c9f2ff"></polygon>
+  <!-- Letter R in Calibre -->
+  <text x="50%" y="62%" text-anchor="middle" font-size="45" font-family="Calibre, sans-serif" fill="#E5E7EB">
+    R
+  </text>
+</svg>
